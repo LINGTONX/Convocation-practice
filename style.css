@@ -24,9 +24,9 @@
 }
 .navbar{
     background-color:#00b33c;
-    /* height: 48px; */
+    height: 49px;
     margin: 0 auto;
-    font-family: fantasy;
+    font-family: Tahoma;
     
 }
 .navflex{
