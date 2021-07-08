@@ -26,7 +26,7 @@
     background-color:#00b33c;
     /* height: 49px; */
     margin: 0 auto;
-    font-family: Tahoma;
+    font-family:Tahoma;
     
 }
 .navflex{
@@ -90,7 +90,7 @@ h1{
 .context h2{
     font-size: 3em;
     color:  #333 ;
-    padding-top: 15px;
+    padding-top: 40px;
 }
 .context p{
     font-size: 20px;
@@ -110,7 +110,7 @@ h1{
 
 }
 .cardtxt{
-    height: 300px;
+    height: 450px;
     border-radius: 10px;
     text-align: center;
     box-shadow:0 3px 10px rgba(0, 0, 0, 0.4) ;
