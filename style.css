@@ -21,6 +21,8 @@
         margin-top: 10px;
         font-family: tahoma;
     }
+
+
 }
 .navbar{
     background-color:#00b33c;
@@ -134,6 +136,7 @@ h1{
 }
 .imgbox > img{
     width: 100%;
+    border-radius: 10px;;
 }
 .imgbox{
     padding: 40px;
@@ -141,7 +144,7 @@ h1{
     border-radius: 15px;
     font-weight: bold;
     color:  #001a09;
-    margin-left: 15px;
+    margin: 0 15px;
 
 }
 .imgbox p{
@@ -161,11 +164,12 @@ footer{
 .abt{
     grid-template-columns: repeat(auto-fill, minmax(350px,1fr) );
     max-width: 1100px;
-    height: 68vh;
+    height: 75vh;
     width: 95%;
     margin: 0 auto;
-    color:  #333 ;
+    color:#404040 ;
     padding: 0 10px;
+    font-family: tahoma;
 
 }
 .abt p{
@@ -173,6 +177,15 @@ footer{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 20px;
     padding: 10px 5px;
+    line-height: 1.6em;
+
+}
+
+.abt p span{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    color:#4d4d4d;
 
 }
 .abt h2{
