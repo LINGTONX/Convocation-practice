@@ -60,7 +60,10 @@ h1{
 }
 .navflex ul a:hover{
     background:#00802b;
-   
+}
+nav ul li a.current
+{
+    background:#00802b;  
 }
 .seclass{
     max-width: 1100px;
