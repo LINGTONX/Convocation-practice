@@ -1,4 +1,5 @@
 # Convocation-practice
-Gallery for unn convocaton
+Gallery for my  unn convocaton
 https://lingtonx.github.io/congal/
-built from scratch while learning
+built with html and css
+made use of css flexbox and css grid
